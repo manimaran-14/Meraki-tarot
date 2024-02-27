@@ -1,5 +1,5 @@
 # Meraki-tarot
-This is a tarot reading website using Html, css, Javascript, Bootstrap  with admin panel for uploading gallery images  using php and mySql.
+This is a tarot reading website using #Html, #css, #Javascript, #Bootstrap  with admin panel for uploading gallery images  using #php and #mySql.
 link : https://merakitarot16.com/
 
 ![image](https://github.com/manimaran-14/Meraki-tarot/assets/161288914/318c340a-bfdc-49b8-933d-cf1838c81680)
